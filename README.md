@@ -1,4 +1,4 @@
-<h1 align="center">:dog: Devsbook :cat:</h1>
+<h1 align="center">Devsbook</h1>
 
 <p align="center">O Devsbook se trata de um site web desenvolvido em PHP para simular uma rede social de interações entre usuários, o mesmo se trata de um sistema de relações desenvolvido para praticar o conhecimento adquirido em cursos de PHP.</p>
 
@@ -92,6 +92,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 1- Para instalar o PHP:
 > Wamp server
+
 2- Para iniciar a aplicação:
 > Composer install
 
