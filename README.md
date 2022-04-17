@@ -6,14 +6,6 @@
 
 
 
-
-## :computer:	Acesse o projeto
-
-
-<a href="/"> Projeto Devsbook
-</a>
-
-
 # Funcionalidades
 
  - 1 - Login
@@ -90,11 +82,16 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⚙ Configuração via Composer
 
-1- Para instalar o PHP:
-> Wamp server
+1- Para instalar o PHP (Mvc):
+> git clone https://github.com/suporteb7web/mvc
 
-2- Para iniciar a aplicação:
+2- Para iniciar sessão:
+> Public/index.php 
+       session_start();
+
+3- Configurução do vendor:
 > Composer install
+
 
 
 Feito com 💜 por Jonathas Nunes 👋 [Veja meu Linkedin](https://www.linkedin.com/in/jonathasnunes-developer/)
